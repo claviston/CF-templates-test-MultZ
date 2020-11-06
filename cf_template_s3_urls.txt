@@ -1,0 +1,5 @@
+https://quicktocloud-use1-templates.s3.amazonaws.com/courses/updating-cloudformation/1-original-template.json
+https://quicktocloud-use1-templates.s3.amazonaws.com/courses/updating-cloudformation/2-root-nested-stack.json
+https://quicktocloud-use1-templates.s3.amazonaws.com/courses/updating-cloudformation/3-child-nested-stack.json
+https://quicktocloud-use1-templates.s3.amazonaws.com/courses/updating-cloudformation/4-child-nested-stack.json
+
